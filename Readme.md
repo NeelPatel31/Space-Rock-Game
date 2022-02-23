@@ -1,5 +1,5 @@
 # Space-Asteroid-Game🎮🕹🚀🛸
-A good looking but basic space game created using pygame.
+A good looking but basic space game created using pygame created by Neel.
 
 Press ```left``` arrow for left direction.\
 Press ```Right``` arrow for right direction.\
